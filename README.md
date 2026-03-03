@@ -103,15 +103,6 @@ Includes:
 
 ---
 
-## 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khush54&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khush54&layout=compact" />
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 🔗 Portfolio: https://khushpreetkaurportfolio.netlify.app  
