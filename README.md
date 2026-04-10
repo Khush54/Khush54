@@ -43,6 +43,7 @@ I focus on writing clean, structured code and building complete applications fro
 
 ### 📚 Library Management System
 Full Stack Web Application  
+Link: https://lms-easy.infinityfreeapp.com/
 Tech: PHP, MySQL, HTML, CSS, JavaScript  
 ✔ Book management  
 ✔ Issue & return system  
@@ -53,6 +54,7 @@ Tech: PHP, MySQL, HTML, CSS, JavaScript
 
 ### 🎬 Netflix Clone
 Frontend UI clone inspired by Netflix  
+Link: https://cloneofnet-flix.netlify.app/
 Tech: HTML, CSS  
 ✔ Responsive design  
 ✔ Clean layout structure  
@@ -60,7 +62,8 @@ Tech: HTML, CSS
 ---
 
 ### 🌍 Traveller Website
-Responsive tourism website  
+Responsive tourism website 
+Link: https://traveller-easywaytoexplore.netlify.app/
 Tech: HTML, CSS, Bootstrap  
 ✔ Mobile-friendly layout  
 ✔ Reusable components  
@@ -69,6 +72,7 @@ Tech: HTML, CSS, Bootstrap
 
 ### 🧩 Mini Web Apps Collection
 Interactive JavaScript Applications  
+Link: https://mini-web-apps-dom.netlify.app/
 Includes:
 - Calculator  
 - Word Counter  
@@ -82,6 +86,7 @@ Focus: DOM manipulation & logic building
 
 ### 💼 Portfolio Website
 Personal portfolio showcasing skills & projects  
+Link: https://khushpreetkaurportfolio.netlify.app/
 Tech: TypeScript / HTML / CSS  
 ✔ Project showcase  
 ✔ Contact integration  
@@ -89,8 +94,8 @@ Tech: TypeScript / HTML / CSS
 ---
 
 ### 🧠 CODSOFT Projects
-Collection of frontend development tasks & practice implementations  
-Focus: UI building & JavaScript logic  
+Collection of tasks & practice implementations using Python
+Focus: Python logic  
 
 ---
 
