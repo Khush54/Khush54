@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-🎓 B.Tech Computer Science Engineering Student (CGPA: 8.71 / 10)  
+🎓 B.Tech Computer Science Engineering Student (CGPA: 8.92 / 10)  
 💻 Full Stack Developer in Training  
 🌱 Strong in Frontend (React, JavaScript)  
 ⚙️ Backend Experience with PHP & MySQL  
