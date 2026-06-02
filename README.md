@@ -150,18 +150,6 @@ Deploy projects on modern hosting platforms
 
 ---
 
-## GitHub Activity
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Khush54&show_icons=true&hide_border=true&title_color=2563EB&icon_color=14B8A6&text_color=334155&bg_color=ffffff" alt="GitHub stats" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khush54&layout=compact&hide_border=true&title_color=2563EB&text_color=334155&bg_color=ffffff" alt="Top languages" />
-
-</div>
-
----
-
 ## Education
 
 **B.Tech - Computer Science and Engineering**  
